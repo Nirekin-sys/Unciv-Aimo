@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Aimo",
+		"leaderName": "Shaman Ayusha",
+		"adjective": ["Aimoans"],
+		"startBias": ["Avoid Jungle"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Your furor has gone too far, the Aimo is here to tame your spirit.",
+		"attacked": "The world doesn't belong to you, it belongs to humanity.",
+		"defeated": "And what wrong has my people done to deserve this fate, warlord?",
+		"introduction": "Greetings, the serene Aimo has visited your realm.",
+		
+		"neutralHello": "Peace be upon you.",
+		"hateHello": "I am not angry, my friend, just disappointed...",
+		
+		"tradeRequest": "I hope this brings happiness to both our peoples.",
+				
+		"outerColor": [116,150,173],
+		"innerColor": [219,58,0],
+		"unique": "ANCIEN_REGIME",
+		"cities": ["Nirvalatya","Murirangi","Bajur","Laski","Minshab","Gutari","Nardwal","Vaddtenna","Owidiya","Lalitriya",
+			"Ratnajung","Sandlokati","Chandmipur","Nolhivaranmale","Hulhuranfaru","Haradang","Donhong","Badkhlah","Abedhari","Manshah",
+			"Narogram","Safigaon","Rudragat","Buwelisulla","Nikakada","Janakyan","Kamamai","Tangunia","Barilokati","Mavadhoo",
+			"Thigili","Kanang","Rungnig","Mahrawan","Gansabad","Kalamak","Razwal","Gopaldhar","Dhamraon","Nikawatta"]
+	}
+]
