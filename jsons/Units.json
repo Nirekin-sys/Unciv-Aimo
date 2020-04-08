@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Shamanakh",
+		"unbuildable": true,
+		"unitType": "Civilian",
+		"uniqueTo": "Aimo",
+		"replaces": "Great General",
+		"uniques": ["Can start an 8-turn golden age","Heal adjacent units for an additional 15 HP per turn","Can build improvement: Landmark","Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence"],
+		"movement": 2
+	}
+]
